@@ -1,0 +1,66 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Recipe1",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_1"
+    },
+    {
+      "name": "Slingshot",
+      "type": "rangeditem",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slingshot"
+    },
+    {
+      "name": "Recipe2",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_2"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.slingshotmod.slingshot": "Slingshot",
+      "item.slingshotmod.bullet": "Bullet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "slingshotmod",
+    "modName": "Slingshotmod1.0",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.slingshotmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
